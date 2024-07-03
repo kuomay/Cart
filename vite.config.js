@@ -10,7 +10,7 @@ export default defineConfig({
   ],
   base: "/Cart/",
   build: {
-    outDir: "dist"
+    outDir: "docs"
   },
   resolve: {
     alias: {
